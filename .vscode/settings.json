@@ -1,0 +1,35 @@
+{
+  "editor.defaultFormatter": "biomejs.biome",
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "editor.codeActionsOnSave": {
+    "quickfix.biome": "explicit",
+    "source.organizeImports.biome": "explicit"
+  },
+  "files.exclude": {
+    "**/.source": true,
+    "**/.next": true,
+    "**/node_modules": true,
+    "bun.lockb": true,
+    ".gitignore": true,
+    "postcss.config.mjs": true,
+    "next-env.d.ts": true,
+    "components.json": true,
+    "tsconfig.json": true,
+
+    "src/app/favicon.ico": true,
+    "src/app/manifest.ts": true,
+    "src/app/robots.ts": true,
+    "src/app/sitemap.ts": true,
+    "src/app/opengraph-image.png": true,
+    "src/app/twitter-image.png": true,
+    "src/app/Satoshi-Variable.woff2": true
+  }
+}
