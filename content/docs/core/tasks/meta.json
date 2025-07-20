@@ -1,0 +1,10 @@
+{
+  "type": "folder",
+  "name": "Tasks",
+  "description": "Managing your Workload",
+  "icon": "SquareCheck",
+  "index": {
+    "type": "page"
+  },
+  "children": ["index", "kanban"]
+}

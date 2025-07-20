@@ -1,0 +1,10 @@
+{
+  "type": "folder",
+  "name": "Notes",
+  "description": "For your Thoughts",
+  "icon": "LibraryBig",
+  "index": {
+    "type": "page"
+  },
+  "children": []
+}

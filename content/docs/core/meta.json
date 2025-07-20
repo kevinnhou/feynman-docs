@@ -1,0 +1,14 @@
+{
+  "title": "Core",
+  "description": "The Essentials",
+  "icon": "Box",
+  "root": true,
+  "pages": [
+    "index",
+    "getting-started",
+    "---Modules---",
+    "notes",
+    "sessions",
+    "tasks"
+  ]
+}

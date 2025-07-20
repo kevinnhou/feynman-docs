@@ -1,0 +1,10 @@
+{
+  "type": "folder",
+  "name": "Sessions",
+  "description": "Tracking your Productivity",
+  "icon": "Timer",
+  "index": {
+    "type": "page"
+  },
+  "children": []
+}
