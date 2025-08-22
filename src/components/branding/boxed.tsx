@@ -1,6 +1,6 @@
 export function Caption(props: React.SVGProps<SVGSVGElement>) {
   return (
-    // biome-ignore lint/a11y/noSvgWithoutTitle: <explanation>
+    // biome-ignore lint/a11y/noSvgWithoutTitle: pass
     <svg
       width={697}
       height={247}
@@ -64,7 +64,7 @@ export function Caption(props: React.SVGProps<SVGSVGElement>) {
 
 export function Logotype(props: React.SVGProps<SVGSVGElement>) {
   return (
-    // biome-ignore lint/a11y/noSvgWithoutTitle: <explanation>
+    // biome-ignore lint/a11y/noSvgWithoutTitle: pass
     <svg
       width={604}
       height={164}

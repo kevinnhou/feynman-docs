@@ -1,6 +1,6 @@
 export default function Logo(props: React.SVGProps<SVGSVGElement>) {
   return (
-    // biome-ignore lint/a11y/noSvgWithoutTitle: <explanation>
+    // biome-ignore lint/a11y/noSvgWithoutTitle: pass
     <svg
       width={168}
       height={36}
