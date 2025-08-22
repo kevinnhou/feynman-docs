@@ -20,8 +20,8 @@ function Navigation() {
 export const baseOptions: BaseLayoutProps = {
   nav: {
     title: <Navigation />,
-    url: "feynman.pro",
-    transparentMode: "top",
+    url: "https://www.feynman.pro/",
+    transparentMode: "always",
   },
   githubUrl: "https://github.com/kevinnhou/feynman-docs",
 }
